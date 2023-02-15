@@ -1,0 +1,28 @@
+
+body{
+    font-size:22px;
+    font-family: sans-serif;
+    color: red;
+}
+
+h1{
+    font-size:28px;
+    font-family: Times;
+    color: blue
+}
+
+h2{
+    font-size:25px;
+    font-family: Times;
+    font-style: italic;
+
+}
+
+section{
+    margin: 3em 0;
+}
+
+.logo{
+    width:50%;
+}
+
