@@ -1,54 +1,53 @@
 h1 {
     font-size: 90px;
     font-family: 'Libre Baskerville', serif;
-    color: #373333
+    color: #373333;
 }
 
 h2 {
     font-size: 25px;
     font-family: 'Libre Baskerville', serif;
-    color: #373333
+    color: #373333;
 }
 
 h3 {
     font-size: 67px;
     font-family: 'Libre Baskerville', serif;
-    color: #000000
+    color: #000000;
 }
 
 h4 {
     font-size: 28px;
     font-family: 'Libre Baskerville', serif;
-    color: white
+    color: white;
 }
 
 h5 {
     font-size: 65px;
     font-family: 'Libre Baskerville', serif;
-    color:white
+    color:white;
 }
 
 h6 {
     font-size: 65px;
     font-family: 'Libre Baskerville', serif;
-    color:black
+    color:black;
 }
 
 ul {
     font-size: 25px;
     font-family: 'Libre Baskerville', serif;
-    color:black
+    color:black;
 }
-
 
 h7 {
     font-size: 20px;
     font-family: 'Libre Baskerville', serif;
-    color: #7d5944
+    color: #7d5944;
 }
 
 h8 {
-    font-size: 40px;
+    font-size: 72px;
     font-family: 'Libre Baskerville', serif;
     color: #7d5944;
     font-weight: bolder
@@ -56,18 +55,31 @@ h8 {
 }
 
 h9 {
-    font-size: 30px;
+    font-size: 55px;
     font-family: 'Libre Baskerville', serif;
-    color: #7d5944
+    color: #7d5944;
 }
-
 
 p {
     font-size: 20px;
     font-family: 'Libre Baskerville', serif;
-    color: #7d5944
+    color: #7d5944;
 }
 
+nav a {
+    font-size: 22px;
+    font-family: 'Libre Baskerville', serif;
+    color:  #7d5944;
+}
 
+h10 {
+    font-size: 17px;
+    font-family: 'Libre Baskerville', serif;
+    color:white;
+}
 
-    
+a {
+    font-size: 35px;
+    font-family: 'Libre Baskerville', serif;
+    color: #7d5944;
+}
