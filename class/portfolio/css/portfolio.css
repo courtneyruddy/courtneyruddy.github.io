@@ -14,7 +14,7 @@ body{
 .light-bg,
 .light-bg a,
 .light-bg nav a{
-    color:white;
+    color:black;
 }
 
 .dark-bg,
@@ -22,7 +22,6 @@ body{
 .dark-bg nav a{
     color:white;
 }
-
 
 h1 {
     font-size: 4.5em;
@@ -35,7 +34,6 @@ h2 {
     color: #373333;
 }
 
-
 h3 {
     font-size: 3.35em;
     color: #000000;
@@ -46,29 +44,19 @@ h3 {
     text-align:center;
 }
 
-
-
-
 h4 {
     font-size: 1.4em;
 }
-
 
 ul {
     font-size: 1.5em;
     color:black;
 }
 
-
 nav a {
     font-size: 1.1em;
     padding: 0 1em 0 0;
 }
-
-
-
-
-
 
 .nav{
     margin: 2em 0;
