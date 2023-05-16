@@ -1,14 +1,13 @@
-h1{
+body{
     font-family: 'ABeeZee', sans-serif;
-    font-size: 3em;
-    color: #b24518;
-
 }
 
-p{
-    font-family: 'ABeeZee', sans-serif;
-    font-size: 1em;
-    color: black;
+h1{
+    font-family: 'Wix Madefor Display', sans-serif;
+    font-size: 1.75em;
+    text-shadow: 1px 1px white;
+    font-weight: 700;
+    color: #b24518;
 
 }
 
@@ -18,4 +17,41 @@ a{
     color: black;  
 }
 
+header{
+        margin: 0 0 2em 0;
+        position: relative;
+        text-align: center;
+}
 
+.headline{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.byline{
+    color: white;
+    font-size: .85em;
+}
+
+.credit{
+    font-size: .65em;
+    font-style: italic;
+    text-align: right;
+}
+
+@media (max-width:775px){
+    h1{
+        font-size: 1.25em;
+    }
+    .headline{
+        top:35%;
+    }
+}
+
+@media (max-width:556px){
+    .headline{
+        top: 50%; 
+    }
+}
